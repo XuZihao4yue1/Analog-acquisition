@@ -1,0 +1,2 @@
+    std::string inputFilePath = "/home/zd/桌面/oscilloscope_src/points_displacement.txt";  // 输入文件路径
+    std::string outputFilePath = "/home/zd/桌面/oscilloscope_src/points_displacement_nonredundant.txt";  // 输出文件路径
